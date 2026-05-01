@@ -1,8 +1,11 @@
 # Ciao, sono Davide 👋
 
-Junior Software Developer con focus sul **Front-End** e conoscenze **Full-Stack**.
-Sviluppo interfacce web moderne, responsive e orientate all'utente.
-Per aumentare le mie competenze integro strumenti AI (Claude Code, Cursor, Gemini) come parte del workflow all'interno dei miei progetti.
+💻 Junior Software Developer (Front-End focus · Full-Stack knowledge)
+
+Sviluppo applicazioni web moderne, responsive e orientate all’utente utilizzando tecnologie come Next.js, React, Angular e TypeScript.
+Mi occupo della creazione di interfacce performanti, integrazione di API REST e gestione di dati lato client e server.
+
+Integro strumenti AI come Claude Code all’interno del mio workflow per migliorare produttività, debugging e qualità del codice, mantenendo pieno controllo sull’implementazione.
 
 ---
 
@@ -42,14 +45,31 @@ Per aumentare le mie competenze integro strumenti AI (Claude Code, Cursor, Gemin
 
 🌐 **[Portfolio Personale](https://portfolio-sumanariu-davide-2026.vercel.app)**
 Portfolio web professionale con UI moderna, video demo, form di contatto e CV scaricabile.
+Applicazione web sviluppata con Next.js e TypeScript per presentare progetti e competenze.
+
+UI moderna e completamente responsive
+Integrazione form contatti con invio email tramite API
+Ottimizzazione performance (focus Lighthouse e UX)
+Deploy su Vercel
+
+Stack: Next.js · TypeScript · Tailwind CSS · Framer Motion · Resend
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Resend`
 
 🎮 **[Davide Dex](https://pokedex-pokemon-iota.vercel.app)**
 Pokédex completo con ricerca, filtri per tipo, forme speciali, comparazione e database mosse. Dati via PokéAPI.
+Pokédex completa con gestione dati da API esterna.
+
+Sistema di ricerca e filtri dinamici
+Visualizzazione dettagli Pokémon e comparazione
+Gestione asincrona dei dati da PokéAPI
 `Vanilla JS` · `HTML5` · `CSS3`
 
 🛒 **[E-commerce Etsy](https://creationsby-davide-site.vercel.app)**
-Vetrina e-commerce con catalogo dinamico, ricerca, filtri e integrazione Supabase.
+Vetrina e-commerce Etsy prodotti digitali con catalogo dinamico e integrazione database.
+
+Sistema di ricerca e filtri prodotti
+Architettura component-based riutilizzabile
+Integrazione con Supabase per gestione dati
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase`
 
 ---
