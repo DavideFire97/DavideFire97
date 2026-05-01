@@ -2,7 +2,7 @@
 
 Junior Software Developer con focus sul **Front-End** e conoscenze **Full-Stack**.
 Sviluppo interfacce web moderne, responsive e orientate all'utente.
-Uso strumenti AI (Claude Code, Cursor) come parte del workflow — per lavorare meglio, non per sostituire la comprensione.
+Per aumentare le mie competenze integro strumenti AI (Claude Code, Cursor, Gemini) come parte del workflow all'interno dei miei progetti.
 
 ---
 
