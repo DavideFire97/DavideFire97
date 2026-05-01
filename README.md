@@ -1,7 +1,8 @@
 # Ciao, sono Davide 👋
 
-**Junior Software Developer** con focus sul **Front-End** e conoscenze **Full-Stack**.  
+Junior Software Developer con focus sul **Front-End** e conoscenze **Full-Stack**.
 Sviluppo interfacce web moderne, responsive e orientate all'utente.
+Uso strumenti AI (Claude Code, Cursor) come parte del workflow — per lavorare meglio, non per sostituire la comprensione.
 
 ---
 
@@ -20,21 +21,35 @@ Sviluppo interfacce web moderne, responsive e orientate all'utente.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 ---
 
 ## 📌 Progetti in evidenza
 
-### 🌐 [Portfolio Personale](https://portfolio-sumanariu-davide-2026.vercel.app)
-Portfolio web professionale con UI moderna, video demo, form di contatto e CV scaricabile.  
+🌐 **[Portfolio Personale](https://portfolio-sumanariu-davide-2026.vercel.app)**
+Portfolio web professionale con UI moderna, video demo, form di contatto e CV scaricabile.
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Resend`
 
-### 🛒 [E-commerce Etsy](https://creationsby-davide-site.vercel.app)
-Vetrina e-commerce con catalogo dinamico, ricerca, filtri e integrazione Supabase.  
+🎮 **[Davide Dex](https://pokedex-pokemon-iota.vercel.app)**
+Pokédex completo con ricerca, filtri per tipo, forme speciali, comparazione e database mosse. Dati via PokéAPI.
+`Vanilla JS` · `HTML5` · `CSS3`
+
+🛒 **[E-commerce Etsy](https://creationsby-davide-site.vercel.app)**
+Vetrina e-commerce con catalogo dinamico, ricerca, filtri e integrazione Supabase.
 `Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase`
 
 ---
