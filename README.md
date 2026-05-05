@@ -44,38 +44,16 @@ Integro strumenti AI come Claude Code all’interno del mio workflow per miglior
 ## 📌 Progetti in evidenza
 
 🌐 **[Portfolio Personale](https://portfolio-sumanariu-davide-2026.vercel.app)**
-
 Portfolio web professionale con UI moderna, video demo, form di contatto e CV scaricabile.
-Applicazione web sviluppata con Next.js e TypeScript per presentare progetti e competenze.
-
-UI moderna e completamente responsive
-Integrazione form contatti con invio email tramite API
-Ottimizzazione performance (focus Lighthouse e UX)
-Deploy su Vercel
-
-
-Stack: `Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Resend`
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Resend`
 
 🎮 **[Davide Dex](https://pokedex-pokemon-iota.vercel.app)**
-
 Pokédex completo con ricerca, filtri per tipo, forme speciali, comparazione e database mosse. Dati via PokéAPI.
-Pokédex completa con gestione dati da API esterna.
-
-Sistema di ricerca e filtri dinamici
-Visualizzazione dettagli Pokémon e comparazione
-Gestione asincrona dei dati da PokéAPI
-
-Stack: `Vanilla JS` · `HTML5` · `CSS3`
+`Vanilla JS` · `HTML5` · `CSS3`
 
 🛒 **[E-commerce Etsy](https://creationsby-davide-site.vercel.app)**
-
-Vetrina e-commerce Etsy prodotti digitali con catalogo dinamico e integrazione database.
-
-Sistema di ricerca e filtri prodotti
-Architettura component-based riutilizzabile
-Integrazione con Supabase per gestione dati
-
-Stack: `Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase`
+Vetrina e-commerce per prodotti digitali Etsy con catalogo dinamico, ricerca, filtri e integrazione Supabase.
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Supabase`
 
 ---
 
